@@ -1,4 +1,3 @@
-import 'mocha';
 import {expect} from 'chai';
 import mergeTwoLists from '../src/MergeTwoSortedList';
 import {ListNode} from '../src/MergeTwoSortedList';

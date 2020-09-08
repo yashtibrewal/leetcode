@@ -1,6 +1,5 @@
 import repeatedSubstringPattern from '../src/RepeatedSubstringPattern';
 import { expect } from 'chai';
-import 'mocha';
 
 describe('repeated substring pattern', () => {
   it('should return true', () =>{
