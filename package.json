@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -r ts-node/register test/CountandSay.spec.ts"
+    "test": "mocha -r ts-node/register test/PlusOne.spec.ts",
+    "lint":"eslint"
   },
   "author": "",
   "license": "ISC",
