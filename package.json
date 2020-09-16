@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -r ts-node/register test/ExcelSheetColumnTitle.spec.ts",
+    "test": "mocha -r ts-node/register test/CanPlaceFlowers.spec.ts",
     "lint":"eslint"
   },
   "author": "",
